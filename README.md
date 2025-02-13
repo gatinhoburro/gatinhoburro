@@ -1,6 +1,7 @@
 # 💫 About Me:
 ૮₍ ˃ ⤙ ˂ ₎ა  Quem sou eu?<br><br>    Apaixonado por desenvolvimento web e criação de interfaces interativas<br>    Aprendendo e aprimorando minhas habilidades em HTML, CSS e JavaScript<br>    Explorando novas tecnologias para construir projetos incríveis<br><br>Projetos de front-end, desde páginas simples até interfaces mais dinâmicas<br>Práticas e experimentos com CSS estiloso e animações<br>Códigos organizados, limpos e fáceis de entender
 
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yuri-anael-ramos-8bb326349/) 
