@@ -15,4 +15,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=gatinhoburro&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![snake gif](https://github.com/gatinhoburro/gatinhoburro/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/gatinhoburro/gatinhoburro/blob/output/github-contribution-grid-snake.sgv)
