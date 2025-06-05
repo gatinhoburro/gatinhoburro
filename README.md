@@ -1,6 +1,6 @@
 # 💫 About Me:
 ૮₍ ˃ ⤙ ˂ ₎ა  
-🚀 Junior Developer <br>| Java <br>| Spring Boot <br>| Backend 
+🚀 Desenvolvedor back-end <br>| Java <br>| Spring Boot <br>| Backend 
 
 <img src="https://github.com/user-attachments/assets/f4cfb135-7276-4b5a-a0e8-751809a5635d" alt="GitHub Banner" width="500px" align="right"/>
 
